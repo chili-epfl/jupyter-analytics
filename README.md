@@ -13,6 +13,8 @@ On the student side, we introduce the Jupyter Analytics Telemetry extension to a
 On the teacher side, we introduce the Jupyter Analytics Dashboard extension, which visualizes real-time student data directly in the notebook interface.
 The Jupyter Analytics system was developed through an iterative co-design process with university instructors and teaching assistants, and has been implemented and tested in several university STEM courses.
 
+![toolkit_overview](https://github.com/user-attachments/assets/8c16e388-ab94-4cd7-8a1d-a5a82c1cc3b6)
+
 ## System Architecture
 The system consists of the following major components:
 1. JupyterLab Extension "Telemetry"
