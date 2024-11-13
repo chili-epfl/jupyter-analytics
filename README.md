@@ -17,11 +17,13 @@ The Jupyter Analytics system was developed through an iterative co-design proces
 
 ## System Architecture
 The system consists of the following major components:
-1. JupyterLab Extension "Telemetry"
-* Repository: [Jupyter Analytics Telemetry](https://github.com/chili-epfl/jupyter-analytics/)
-2. JupyterLab Extension "Dashboard"
-* Repository: [Jupyter Analytics Dashboard](https://github.com/chili-epfl/jupyter-analytics/)
-3. ...
+1. **JupyterLab Extension "Telemetry"**
+* Repository: [*Coming soon ...*](https://github.com/chili-epfl/jupyter-analytics/) <!-- Jupyter Analytics Telemetry -->
+2. **JupyterLab Extension "Dashboard"**
+* Repository: [*Coming soon ...*](https://github.com/chili-epfl/jupyter-analytics/) <!-- Jupyter Analytics Dashboard -->
+3. **Backend**
+* Repository: [*Coming soon ...*](https://github.com/chili-epfl/jupyter-analytics/) <!-- Jupyter Analytics Backend -->
+* Repository: [[Optional] *Coming soon ...*](https://github.com/chili-epfl/jupyter-analytics/) <!-- Kubernetes Backend -->
 
 ## Citation
 If you find this repository useful, please cite our paper:
