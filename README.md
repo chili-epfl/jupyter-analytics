@@ -34,4 +34,4 @@ In Proceedings of the 56th ACM Technical Symposium on Computer Science Education
 ```
 
 ## License
-This project is licensed under the xxx License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/chili-epfl/jupyter-analytics/blob/main/LICENSE) file for details.
