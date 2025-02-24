@@ -18,12 +18,11 @@ The Jupyter Analytics system was developed through an iterative co-design proces
 ## System Architecture
 The system consists of the following major components:
 1. **JupyterLab Extension "Telemetry"**
-* Repository: [*Coming soon ...*](https://github.com/chili-epfl/jupyter-analytics/) <!-- Jupyter Analytics Telemetry -->
+* Repository: [Jupyter Analytics Telemetry](https://github.com/chili-epfl/jupyter-analytics-telemetry/)
 2. **JupyterLab Extension "Dashboard"**
-* Repository: [*Coming soon ...*](https://github.com/chili-epfl/jupyter-analytics/) <!-- Jupyter Analytics Dashboard -->
+* Repository: [Jupyter Analytics Dashboard](https://github.com/chili-epfl/jupyter-analytics-dashboard/)
 3. **Backend**
-* Repository: [*Coming soon ...*](https://github.com/chili-epfl/jupyter-analytics/) <!-- Jupyter Analytics Backend -->
-* Repository: [[Optional] *Coming soon ...*](https://github.com/chili-epfl/jupyter-analytics/) <!-- Kubernetes Backend -->
+* Repository: [Jupyter Analytics Backend](https://github.com/chili-epfl/jupyter-analytics-backend/)
 
 ## Citation
 If you find this repository useful, please cite our paper:
@@ -32,6 +31,9 @@ Cai, Z., Davis, R., Mariétan, R., Tormey, R., & Dillenbourg, P. (2025).
 Jupyter Analytics: A Toolkit for Collecting, Analyzing, and Visualizing Distributed Student Activity in Jupyter Notebooks.
 In Proceedings of the 56th ACM Technical Symposium on Computer Science Education (SIGCSE TS 2025).
 ```
+
+## Copyright
+© All rights reserved. ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE (EPFL), Switzerland, Computer-Human Interaction Lab for Learning & Instruction (CHILI), 2024
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/chili-epfl/jupyter-analytics/blob/main/LICENSE) file for details.
